@@ -1,0 +1,18 @@
+﻿[
+  {
+    "email": "chinnarao@live.com",
+    "PasswordHash": "p@ssw0rd1111"
+  },
+  {
+    "email": "revati@live.com",
+    "PasswordHash": "p@ssw0rd1111"
+  },
+  {
+    "email": "riya@live.com",
+    "PasswordHash": "p@ssw0rd1111"
+  },
+  {
+    "email": "kavin@live.com",
+    "PasswordHash": "p@ssw0rd1111"
+  }
+]

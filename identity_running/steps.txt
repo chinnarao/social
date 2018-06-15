@@ -1,0 +1,13 @@
+﻿1. create a .net core class library.
+2. Microsoft.EntityFrameworkCore
+3. Microsoft.EntityFrameworkCore.SqlServer
+4. Microsoft.EntityFrameworkCore.Tools
+5. Microsoft.EntityFrameworkCore.Tools.DotNet
+6. Microsoft.AspNetCore.Identity
+7. Microsoft.AspNetCore.Identity.EntityFrameworkCore
+8. Microsoft.EntityFrameworkCore.Design
+
+
+1. Add-Migration -Name "Initial" -Context "AppUsersDbContext" -Project "identity_running" -StartupProject "identity_running"
+2. Update-Database -Context "AppUsersDbContext" -Project "identity_running" -StartupProject "identity_running"
+3. Remove-Migration -Force -Context "AppUsersDbContext" -Project "identity_running" -StartupProject "identity_running"

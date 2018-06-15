@@ -1,0 +1,23 @@
+﻿[
+  {
+    "roleid": 1,
+    "name": "anonymous"
+  },
+  {
+    "roleid": 1,
+    "name": "authenticated"
+  },
+  {
+    "roleid": 1,
+    "name": "sitemanager"
+  },
+  {
+    "roleid": 1,
+    "name": "siteowner"
+  },
+  {
+    "roleid": 1,
+    "name": "administrator"
+  }
+]
+
